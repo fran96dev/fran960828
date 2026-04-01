@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Francisco Navarro Guardiola</h1>
-<h3 align="center">Desarrollador Web Full Stack en formación — apasionado de las tecnologias de desarrollo web y la inteligencia artificial.</h3>
+<h3 align="center">Desarrollador Web Full Stack — apasionado de las tecnologias de desarrollo web y la inteligencia artificial.</h3>
 
 ---
 
@@ -17,10 +17,10 @@
 
 🎓 Actualmente curso el **Máster Full Stack Web Developer en [Conquer Blocks](https://conquerblocks.com/)**, donde he adquirido competencias en:
 
-- 🔧 **Backend:** Python,Django, Java, Node.js, Rust, Go
-- 🎨 **Frontend:** HTML, CSS, JavaScript, React,Angular, Vue, Astro
-- 🛠️ **Dev tools:** Git, GitHub, Linux, SQL, ORM
-- 🌐 **Otros:** despliegue en servidores, principios SOLID,WordPress con PHP
+- 🔧 **Backend:** Python,Django, Django Rest Framework, MySQL, PostgreSQL
+- 🎨 **Frontend:** HTML, CSS, JavaScript,Typescript y React.
+- 🛠️ **Dev tools:** Git, GitHub, Linux, Docker, CI/CD
+- 🌐 **Otros:** despliegue en Digital Ocean, principios SOLID, TDD, Docker
 
 📍 Busco la mejora continua como **desarrollador full stack**, donde pueda seguir aprendiendo, aportar soluciones reales y trabajar en equipo.
 
@@ -31,25 +31,30 @@
 ### 🧩 Lenguajes
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" />
 </p>
 
 ### 🔗 Backend & Bases de Datos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=django,mysql,postgres,swagger" />
+</p>
+
+###🧪 Testing
+<p>
+<img src="https://skillicons.dev/icons?i=vitest,cypress" />
 </p>
 
 ### 🛠️ Herramientas y entornos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode" />
 </p>
 
 ---
@@ -62,7 +67,7 @@ Estoy abierto a:
 - Proyectos open source
 - Networking con otros devs
 
-📫 **Contáctame:** [franng96@hotmail.com]  
+📫 **Contáctame:** [frannagu96@gmail.com]  
 📍 **Ubicación:** Albacete (España)
 
 ---
